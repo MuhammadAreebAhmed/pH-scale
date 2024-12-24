@@ -1,0 +1,58 @@
+h1 {
+    background-color: #5c1497;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+.a {
+    background-color: #357aaf;
+}
+.b {
+    background-color: #3293c3;
+}
+.c {
+    background-color: #3293c3;
+}
+.d {
+    background-color: #469fcb;
+}
+.e {
+    background-color: #5fadd2;
+}
+.f {
+    background-color: #75bada;
+}
+.g {
+    background-color: #105ce9;
+    color: white;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+.h {
+    background-color: #e7abc1;
+}
+.i {
+    background-color: #e799b5;
+}
+.j {
+    background-color: #e2749a;
+}
+.k {
+    background-color: #dd5b84;
+}
+.l {
+    background-color: #d84473e1;
+}
+.m {
+    background-color: #da3d75;
+}
+div p {
+    text-align: center;
+    padding: 5px;
+    margin: 0%;
+}
+.container {
+    border: 1px solid black;
+    padding: 10px;
+}
